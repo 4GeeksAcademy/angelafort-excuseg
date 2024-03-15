@@ -21,7 +21,7 @@ let generateExcuse = () => {
     "right on time",
     "when I finished",
     "during my break",
-    "wefore the class"
+    "before the class"
   ];
 
   let whoIndx = Math.floor(Math.random() * who.length);
